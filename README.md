@@ -37,3 +37,5 @@ Our goal is to simulate how sunlight reflects off building windows throughout th
    ```
 
 ## Preview
+
+![App Preview](screenshot.png)
